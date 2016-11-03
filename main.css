@@ -1,0 +1,21 @@
+
+
+.uno{
+	height: 800x;
+	width: 200px;
+	border:9px solid yellow;
+	display: block;
+	margin: 15px;  /*distancia de la primera caja con la esquina de la pantalla (vendria hacer left) */
+    margin-bottom: 60px; /*distancia entre caja y caja */
+    padding: 25px;
+    text-align: center;
+}
+.dos{
+	height: 800x;
+	width: 200px;/*altura de caja */
+	border:9px solid yellow;
+	display: block;
+	margin-left: 400px; /*distancia del margen izq de la pantalla a la caja */
+	padding: 25px;
+    text-align: left;
+}
